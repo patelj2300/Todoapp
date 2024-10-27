@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260800392509",
+    "project_id": "student-records-sys",
+    "storage_bucket": "student-records-sys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260800392509:android:d732cee1690935fd44e954",
+        "android_client_info": {
+          "package_name": "com.canadore.jaykumar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR8PWGV_wBtNTb9uZr1TPFPqHSIafOcWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
